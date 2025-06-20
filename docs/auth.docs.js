@@ -24,13 +24,13 @@
  *             properties:
  *               name:
  *                 type: string
- *                 example: Vipin
+ *                 example: 
  *               email:
  *                 type: string
- *                 example: vipin@example.com
+ *                 example: 
  *               password:
  *                 type: string
- *                 example: vipin123
+ *                 example: 
  *     responses:
  *       201:
  *         description: User registered successfully
